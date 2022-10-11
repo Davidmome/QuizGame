@@ -1,0 +1,12 @@
+.answers:hover{
+    background-color: green;
+    border-color: red;
+    cursor:pointer;
+}
+
+.jumbotron{
+    background: rgb(197, 194, 194);
+    border-style: dashed;
+    border-width: medium;
+    border-color: red;
+}
